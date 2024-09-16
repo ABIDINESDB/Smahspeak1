@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Smash-Speak",
-  description: "speech transcribe for all",
+  description: "speech transcribe for any language",
 };
 
 export default function RootLayout({
